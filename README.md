@@ -1,4 +1,6 @@
-﻿# AddConfigurations
+This project has been moved to https://codeberg.org/e2t/add-configurations
+ 
+ # AddConfigurations
 
 Макрос для групового додавання конфігурацій до моделі SolidWorks.
 
